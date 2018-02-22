@@ -29,4 +29,6 @@ File management system built in Java, based on M. L. Liu's client-server applica
 
 
 ##Screenshots:
-![Screenshot](https://github.com/CBITT/DC_File_Management_System/edit/master/ui_sample.PNG?raw=true "Sample UI")
+![Screenshot](https://github.com/CBITT/DC_File_Management_System/blob/master/ui_sample1.png?raw=true "Sample UI")
+
+![Screenshot](https://github.com/CBITT/DC_File_Management_System/blob/master/ui_up.jpg?raw=true "Sample UI - upload")
